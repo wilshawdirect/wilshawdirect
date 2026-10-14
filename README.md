@@ -2,6 +2,9 @@
 
 Building automated systems and AI agents. Each folder below is one part of the system; tools are published as they are separated out.
 
+## Wizz-agents - the flagship
+The org for our autonomy framework. **[ultimate-nanobot](https://github.com/Wizz-agents/ultimate-nanobot)**: guarded single-purpose autonomous workers that only report success when they produced something, file their own failures, need a framework-graded canary to go live, and wait for a human on anything that spends. Built on and updated as the fleet grows.
+
 ## Claude
 Tools built with and for Claude Code: the loop that runs the system. [All in this folder](https://github.com/wilshawdirect?tab=repositories&q=topic%3Aadz-claude)
 
