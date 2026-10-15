@@ -11,6 +11,7 @@ Tools built with and for Claude Code: the loop that runs the system. [All in thi
 | Repo | What it does |
 |---|---|
 | [claude-ops-queue](https://github.com/wilshawdirect/claude-ops-queue) | A task queue and skills for running Claude Code agents on a recurring schedule: dedup roots, a daily filing budget, section audits, machine-signal closes. |
+| [mirofish-lite](https://github.com/wilshawdirect/mirofish-lite) | A dependency-free multi-persona LLM veto board: six reviewer personas, a weighted quorum, hard vetoes, fail-closed vote parsing and an append-only ledger. |
 | [llm-cascade](https://github.com/wilshawdirect/llm-cascade) | Local-first LLM routing with quality gates, fall-through and a JSONL usage ledger. Stdlib only. |
 
 ## Amun - Amazon
