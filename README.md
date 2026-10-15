@@ -39,6 +39,7 @@ Building blocks used across every part of the system. [All in this folder](https
 
 | Repo | What it does |
 |---|---|
+| [deadman-breaker](https://github.com/wilshawdirect/deadman-breaker) | Guardrails for bots that spend: an operator dead-man switch, a latching loss breaker with a two-step reset, and an approve-before-spend gate with a hash-chained audit log. Fails closed. |
 | [daemon-sentry](https://github.com/wilshawdirect/daemon-sentry) | Fleet liveness monitoring that judges each daemon by its own cadence and catches "green-but-dead" status lies. |
 | [telegram-ops-kit](https://github.com/wilshawdirect/telegram-ops-kit) | A safe pattern for operations/approval Telegram bots: operator guard, verified approval cards, rate-limited sends. |
 | [youtube-to-training-data](https://github.com/wilshawdirect/youtube-to-training-data) | YouTube video to a structured knowledge report plus instruction/response JSONL. Heuristic by default, LLM-pluggable. |
